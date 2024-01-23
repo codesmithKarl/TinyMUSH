@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['logfiletable_2403',['logfiletable',['../structlogfiletable.html',1,'']]],
-  ['logindata_2404',['logindata',['../structlogindata.html',1,'']]]
+  ['logfiletable_0',['logfiletable',['../structlogfiletable.html',1,'']]],
+  ['logindata_1',['logindata',['../structlogindata.html',1,'']]]
 ];

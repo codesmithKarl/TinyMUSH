@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['todo_20list_4709',['Todo List',['../todo.html',1,'']]]
+  ['installation_20instructions_0',['Installation Instructions',['../md_INSTALL.html',1,'']]]
 ];
